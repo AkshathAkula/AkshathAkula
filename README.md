@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im currently in the AP CSA Java course with CCA. I am very cool :).
+Im currently in the AP CSA Java course with CCA. I am very cool and intersetde in learning CSA.
 
 <!--
 **AkshathAkula/AkshathAkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
