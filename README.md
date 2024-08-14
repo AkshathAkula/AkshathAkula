@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Im currently in the AP CSA Java course with CCA. I am very cool :).
+
 <!--
 **AkshathAkula/AkshathAkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
